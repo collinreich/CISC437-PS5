@@ -1,0 +1,12 @@
+C:\Projects\YOUR_PROJECT\Shared\bin\Debug\net5.0\YOUR_PROJECT.Shared.deps.json
+C:\Projects\YOUR_PROJECT\Shared\bin\Debug\net5.0\YOUR_PROJECT.Shared.dll
+C:\Projects\YOUR_PROJECT\Shared\bin\Debug\net5.0\ref\YOUR_PROJECT.Shared.dll
+C:\Projects\YOUR_PROJECT\Shared\bin\Debug\net5.0\YOUR_PROJECT.Shared.pdb
+C:\Projects\YOUR_PROJECT\Shared\obj\Debug\net5.0\YOUR_PROJECT.Shared.csproj.AssemblyReference.cache
+C:\Projects\YOUR_PROJECT\Shared\obj\Debug\net5.0\YOUR_PROJECT.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\YOUR_PROJECT\Shared\obj\Debug\net5.0\YOUR_PROJECT.Shared.AssemblyInfoInputs.cache
+C:\Projects\YOUR_PROJECT\Shared\obj\Debug\net5.0\YOUR_PROJECT.Shared.AssemblyInfo.cs
+C:\Projects\YOUR_PROJECT\Shared\obj\Debug\net5.0\YOUR_PROJECT.Shared.csproj.CoreCompileInputs.cache
+C:\Projects\YOUR_PROJECT\Shared\obj\Debug\net5.0\YOUR_PROJECT.Shared.dll
+C:\Projects\YOUR_PROJECT\Shared\obj\Debug\net5.0\ref\YOUR_PROJECT.Shared.dll
+C:\Projects\YOUR_PROJECT\Shared\obj\Debug\net5.0\YOUR_PROJECT.Shared.pdb

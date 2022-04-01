@@ -1,0 +1,12 @@
+C:\Projects\YOUR_PROJECT\EF\bin\Debug\net5.0\YOUR_PROJECT.EF.deps.json
+C:\Projects\YOUR_PROJECT\EF\bin\Debug\net5.0\YOUR_PROJECT.EF.dll
+C:\Projects\YOUR_PROJECT\EF\bin\Debug\net5.0\ref\YOUR_PROJECT.EF.dll
+C:\Projects\YOUR_PROJECT\EF\bin\Debug\net5.0\YOUR_PROJECT.EF.pdb
+C:\Projects\YOUR_PROJECT\EF\obj\Debug\net5.0\YOUR_PROJECT.EF.csproj.AssemblyReference.cache
+C:\Projects\YOUR_PROJECT\EF\obj\Debug\net5.0\YOUR_PROJECT.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\YOUR_PROJECT\EF\obj\Debug\net5.0\YOUR_PROJECT.EF.AssemblyInfoInputs.cache
+C:\Projects\YOUR_PROJECT\EF\obj\Debug\net5.0\YOUR_PROJECT.EF.AssemblyInfo.cs
+C:\Projects\YOUR_PROJECT\EF\obj\Debug\net5.0\YOUR_PROJECT.EF.csproj.CoreCompileInputs.cache
+C:\Projects\YOUR_PROJECT\EF\obj\Debug\net5.0\YOUR_PROJECT.EF.dll
+C:\Projects\YOUR_PROJECT\EF\obj\Debug\net5.0\ref\YOUR_PROJECT.EF.dll
+C:\Projects\YOUR_PROJECT\EF\obj\Debug\net5.0\YOUR_PROJECT.EF.pdb
